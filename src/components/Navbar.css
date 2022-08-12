@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300&display=swap");
+.Navbarmarvel {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 2em;
+}
+.textnav {
+  font-family: "Comic Neue";
+  align-items: center;
+  letter-spacing: 0.2px;
+}
+.search-container {
+  display: flex;
+}
+.buscar {
+  color: #000;
+  width: 514px;
+  height: 56px;
+  border: 0px;
+  padding: 0 40px !important;
+  background-color: #ffff;
+  font-family: "Comic Neue";
+}
+.submitmarvel {
+  border: 0px;
+  width: 119px;
+  height: 56px;
+  border-radius: 0px;
+  background-color: #ce0404;
+  color: #f2f2f2;
+  font-weight: 700;
+  font-family: "Comic Neue";
+}
